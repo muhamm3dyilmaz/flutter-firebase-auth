@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431590081010-ul3kt64qv74nd4s6m92vrrhdbkr9n0ig.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431590081010-ul3kt64qv74nd4s6m92vrrhdbkr9n0ig</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUtcLd9x4jC5Hgh_RHdJI4Efp6icV2Arc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431590081010</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lawyerup</string>
+	<key>PROJECT_ID</key>
+	<string>lawyer-up-40365</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lawyer-up-40365.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431590081010:ios:c406c9fd3db8c2e2426b6b</string>
+</dict>
+</plist>
